@@ -3,7 +3,7 @@
 A free to use template for artists to showcase their portfolio on the web.
 
 Please note that you will need some basic HTML knowledge to use this template.
-
+test
 ## Features
 
 - [x] Responsive
