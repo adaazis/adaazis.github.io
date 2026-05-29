@@ -80,6 +80,8 @@ add a carousel
 
 ![Octocat](/img/Ada.jpg)
 
+![Octocat](/img/Stelina.jpg)
+
 ### There's a horizontal rule below this.
 
 * * *
