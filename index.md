@@ -78,6 +78,8 @@ lightbox.init();
 
 add a carousel
 
+![Octocat](/img/Ada.jpg)
+
 ### There's a horizontal rule below this.
 
 * * *
