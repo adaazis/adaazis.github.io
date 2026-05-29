@@ -1,3 +1,7 @@
+
+
+    @import "{{ site.theme }}";
+
 .page-header {
     color: #fff;
     text-align: center;
@@ -6,8 +10,6 @@
 }
 
 
-    @import "{{ site.theme }}";
-   
 * {box-sizing: border-box;}
 slideshow-container {
 max-width: 1000px;
