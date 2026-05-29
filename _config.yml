@@ -4,7 +4,8 @@
     - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Ada Azis Oneline Art
-description: [Soft lines, softer feelings]
+description: Soft lines, softer feelings
 
-show_downloads: "true"
-google_analytics: [Your Google Analytics tracking ID]
+show_downloads: true
+google_analytics: 
+theme: jekyll-theme-cayman
