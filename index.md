@@ -64,7 +64,7 @@ lightbox.init();
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
+
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -74,7 +74,7 @@ lightbox.init();
 | ok           | good `zoute` drop | yumm  |
 
 
-####### Header 7
+###### Header 6
 
 add a carousel
 
