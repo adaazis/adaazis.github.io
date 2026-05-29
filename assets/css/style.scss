@@ -1,13 +1,11 @@
- ```scss
-    ---
-    ---
+
 
     @import "{{ site.theme }}";
-    ```
+   
 
 .page-header {
     color: #fff;
     text-align: center;
     background-color: #000000;
-    background-image: linear-gradient(120deg, #000000, #567482);
+    background-image: linear-gradient(120deg, #000000, #ffffff);
 }
