@@ -101,6 +101,37 @@ add a carousel
 
 
 
+another carousel
+
+
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="/img/Erinda.jpg" alt="Erinda">
+        <div class="carousel-caption d-none d-md-block">
+          <h5>Erinda</h5>
+          <p>Erinda oneline design</p>
+        </div>
+    </div>
+    <div class="carousel-item">
+      <img src="/img/Ada.jpg" alt="Ada">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>Ada</h5>
+        <p>Ada oneline design</p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="/img/Stelina.jpg" alt="Stelina">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>Stelina</h5>
+        <p>Stelina oneline design</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
 
  imagesssss
  
