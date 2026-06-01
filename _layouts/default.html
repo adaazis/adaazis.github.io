@@ -30,19 +30,11 @@
     </header>
 
     <main id="content" class="main-content" role="main">
+       <script src="/assets/css/js.js"></script>
       {{ content }}
 
-      <script type="module">
-import PhotoSwipeLightbox from 'photoswipe/dist/photoswipe-lightbox.esm.js';
-const lightbox = new PhotoSwipeLightbox({
-  gallery: '#my-gallery',
-  children: 'a',
-  pswpModule: () => import('photoswipe/dist/photoswipe.esm.js')
-});
-lightbox.init();
-</script>
- <script src="/assets/css/js.js"></script>
-<link rel="stylesheet" href="photoswipe/dist/photoswipe.css">
+      
+
 
       
       <footer class="site-footer">
