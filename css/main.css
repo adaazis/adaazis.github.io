@@ -9,7 +9,8 @@ h1{font-size:clamp(3rem,8vw,7rem);line-height:.95}
 .eyebrow{letter-spacing:3px;color:var(--accent);margin-bottom:15px}
 .intro{max-width:600px;margin-top:20px}
 .carousel{display:flex;overflow:auto;gap:30px;padding:40px 10vw 80px;scroll-snap-type:x mandatory}
-.card{min-width:70vw;scroll-snap-align:center;background:white;padding:20px;border-radius:8px}
+.card{scroll-snap-align:center;background:white;padding:20px;border-radius:8px}
+/* .card{min-width:70vw;scroll-snap-align:center;background:white;padding:20px;border-radius:8px} */
 .card img{width:100%;height:65vh;object-fit:cover;background:#ddd}
 .card h3{font-size:2rem;margin-top:15px}
 .manifesto,.contact{padding:120px 10vw}
